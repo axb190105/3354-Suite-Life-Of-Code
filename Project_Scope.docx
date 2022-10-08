@@ -1,6 +1,19 @@
 A Hotel Management Software
 1. LogIn
+  1.1 create unique log in
+  1.2 verify log in
+  1.3 recover username/password
 2. Availabilities/Booking
+  2.1 input desired beds and date of stay
+  2.2 display availabilites
+  2.3 room selection / secure checkout 
 3. Auto-Messaging
+  3.1 billing confirmation
+  3.2 pre-check in auto message (contains code to room)
+  3.3 forward messages to staff
 4. Key Code/Code Generator
+  4.1 generate unique code for room upon arrival 
+  4.2 invalidate code for room after check out (prevents security breach)
 5. Maintenence/Room Service
+  5.1 routes phone call to staff cell phones through phone management system
+  5.2 allow the staff to contact the guest.
