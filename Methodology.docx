@@ -1,13 +1,13 @@
-Agile Scrum methodology
-Agile scrum methodology is a project management system that relies on incremental development. 
+For our project we are using the agile scrum methodology.
+
+This is a project management system that relies on incremental development. 
 Each iteration consists of two- to four-week sprints, 
-where the goal of each sprint is to build the most important features first and come out with a potentially deliverable product
+where the goal of each sprint is to build the most important features first 
+and come out with a potentially deliverable product
 
-We are using Agile methodology because
+We decided to use the agile methodology because we are priorotizing the most important aspect of the
+hotel management system first before before implementing the least important aspects. 
+For example we would want to work on the Room Availability and booking system 
+before implementing maintainance and Room Service.
 
-Features and Priority for our hotel management system 
-1. Log in
-2. Room Availability / Booking
-3. Key Code/ COde generation
-4. Maintainance / Room Service
-5. Auto-messaging
+
