@@ -3,11 +3,11 @@ Agile scrum methodology is a project management system that relies on incrementa
 Each iteration consists of two- to four-week sprints, 
 where the goal of each sprint is to build the most important features first and come out with a potentially deliverable product
 
+We are using Agile methodology because
 
-
-Features and Priority
-1. 
-2.
-3.
-4.
-5.
+Features and Priority for our hotel management system 
+1. Log in
+2. Room Availability / Booking
+3. Key Code/ COde generation
+4. Maintainance / Room Service
+5. Auto-messaging
