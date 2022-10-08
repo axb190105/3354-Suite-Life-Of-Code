@@ -4,4 +4,8 @@ Functional Requirements
 1.
 
 Non-Functional Requirements
-1.
+1. Users should be able to access the app on a mobile or desktop device. 
+2. Users should be able to book a hotel room in less than 10 minutes. 
+3. Auto-messengers should send messages within one minute. 
+4.Personal information, including room number, key codes, and payment information, should be secure and only accessible by hotel staff with permission.
+5. Software must be compatible with hotel licensing institutions, as well as local and federal law.
