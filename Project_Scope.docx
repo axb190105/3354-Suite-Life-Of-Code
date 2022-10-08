@@ -10,7 +10,7 @@ A Hotel Management Software
 3. Auto-Messaging
   3.1 billing confirmation
   3.2 pre-check in auto message (contains code to room)
-  3.3 forward messages to staff
+  3.3 forward messages from guest to staff
 4. Key Code/Code Generator
   4.1 generate unique code for room upon arrival 
   4.2 invalidate code for room after check out (prevents security breach)
