@@ -12,8 +12,8 @@ A Hotel Management Software
   3.2 pre-check in auto message (contains code to room)
   3.3 forward messages from guest to staff
 4. Key Code/Code Generator
-  4.1 generate unique code for room upon arrival 
-  4.2 invalidate code for room after check out (prevents security breach)
+  4.1 generate unique pin for room upon arrival 
+  4.2 invalidate pin for room after check out (prevents security breach)
 5. Maintenence/Room Service
   5.1 routes phone call to staff cell phones through phone management system
   5.2 allow the staff to contact the guest.
