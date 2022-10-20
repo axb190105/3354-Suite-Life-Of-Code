@@ -1,13 +1,13 @@
 Software Requirements
 
 Functional Requirements
-1.	A user shall gain secure access of the system’s user interface through the Log-in Portal.
-2.	A user shall be able to search for available rooms and services for all hotels.
-3.	The system shall automatically generate a text message containing the booked room’s keycode.
-4.	The user shall be able to request for a new keycode to their hotel room during the duration of their stay.
-5.	The system shall automatically deliver the text message containing the booked room’s keycode to the requesting customer.
-6.	The user shall be able to request for room service and assistance at any time during staff hours.
-7.	The system shall automatically generate each day, for each formerly occupied room, a list of rooms to be marked unavailable for maintenance and room services.
+1. A user shall gain secure access of the system’s user interface through the Log-in Portal.
+2. A user shall be able to search for available rooms and services for all hotels.
+3. The system shall automatically generate a text message containing the booked room’s keycode.
+4. The user shall be able to request for a new keycode to their hotel room during the duration of their stay.
+5. The system shall automatically deliver the text message containing the booked room’s keycode to the requesting customer.
+6. The user shall be able to request for room service and assistance at any time during staff hours.
+7. The system shall automatically generate each day, for each formerly occupied room, a list of rooms to be marked unavailable for maintenance and room services.
 
 Non-Functional Requirements
 1. Users should be able to access the app on a mobile or desktop device. 
